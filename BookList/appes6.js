@@ -148,7 +148,7 @@ class Book {
     // Delete book
     ui.deleteBook(e.target);
   
-    // Remove from LS
+    // Remove from LS (we traverse to the ISBN here)
     Store.removeBook(e.target.parentElement.previousElementSibling.textContent);
   
     // Show message

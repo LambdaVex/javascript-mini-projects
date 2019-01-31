@@ -88,3 +88,10 @@ You can setup a fake server using (https://github.com/typicode/json-server):
 ```
 > npm start; run app server
 ```
+
+# What does the Babel Webpack Starter do?
+
+> it looks into the package.json file and install all dependencies, it creates the node_module
+
+> It gathers all js file/modules in one
+

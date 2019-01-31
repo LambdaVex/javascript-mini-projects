@@ -59,3 +59,7 @@ Summary (We use this to compile our code down to ES5 or else):
 > run: npm start; to run the server 
 
 > Remember that all your modules will be compiled to only one -> app.bundle.js
+
+
+You can setup a fake server using (https://github.com/typicode/json-server):
+> npm install json-server --save 

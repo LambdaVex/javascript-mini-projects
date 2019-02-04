@@ -41,7 +41,7 @@ Brad Traversy
 This project is licensed under the MIT License
 
 
-Summary (We use this to compile our code down to ES5 or else):
+### Summary (We use this to compile our code down to ES5 or else):
 ```
 > Our Js is in src file
 ```

@@ -27,7 +27,7 @@ const data = [
 
 const profiles = profileIterator(data);
 
-// Call first profile
+// Call first profile -> Load first person automatic on load/reload
 nextProfile();
 
 // Next Event
@@ -49,7 +49,7 @@ function nextProfile() {
 
     document.getElementById('imageDisplay').innerHTML = `<img src="${currentProfile.image}">`;
   } else {
-    // No more profiles
+    // No more profiles -> So basically when the iterator is done, we reload to have them re circulate 
     window.location.reload();
   }
 }

@@ -6,19 +6,20 @@ A set of projects written in JS. The goal is to refresh my knowledge of the lang
 
 #### BookList:
 
-#### Chuck Norris Joke Generator
+#### Chuck Norris Joke Generator:
 
-#### GitHubFinder
+#### GitHubFinder:
 
-#### LoanCalculator
+#### LoanCalculator:
 
-#### MicroPosts
+#### MicroPosts:
 
-#### NumberGuesser
+#### NumberGuesser:
 
-#### TaskList
+#### TaskList:
 
-#### TimeCalculator
+#### TimeCalculator:
 
-#### UserValidatedForm
+#### UserValidatedForm:
 
+#### ProfileScroller:

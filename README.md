@@ -5,6 +5,7 @@ A set of projects written in JS. The goal is to refresh my knowledge of the lang
 ```
 
 #### BookList:
+Reviews OOP concepts and Local storage
 
 #### Chuck Norris Joke Generator:
 
@@ -22,5 +23,6 @@ A set of projects written in JS. The goal is to refresh my knowledge of the lang
 
 #### UserValidatedForm:
 
-#### ProfileScroller: Reviews Iterators & Generators
+#### ProfileScroller: 
+Reviews Iterators & Generators
 

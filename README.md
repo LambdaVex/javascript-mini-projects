@@ -21,8 +21,10 @@ Reviews making Http Requests using the XMLHttpRequest (XHR) API
 #### TaskList:
 
 #### TimeCalculator:
+Reviews Event listeners and functions 
 
 #### UserValidatedForm:
+Reviews the usage of regex
 
 #### ProfileScroller: 
 Reviews Iterators & Generators

@@ -17,8 +17,10 @@ Reviews making Http Requests using the XMLHttpRequest (XHR) API
 #### MicroPosts:
 
 #### NumberGuesser:
+Reviews Event listeners and functions
 
 #### TaskList:
+Reviews the usage of the localStorage of the browser
 
 #### TimeCalculator:
 Reviews Event listeners and functions 

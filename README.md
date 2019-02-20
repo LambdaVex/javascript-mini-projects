@@ -15,6 +15,7 @@ Reviews making Http Requests using the XMLHttpRequest (XHR) API
 #### LoanCalculator:
 
 #### MicroPosts:
+Reviews the usage of Babel Webpack Starter
 
 #### NumberGuesser:
 Reviews Event listeners and functions

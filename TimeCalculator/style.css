@@ -1,0 +1,16 @@
+body{
+	background-color: black;
+}
+h1{
+	color:white;
+}
+#calcbtn{
+	background-color: #2497FF;
+	color: white;
+	width: 16.9%;
+	border-color: #2497FF;
+	font-size: 13px;
+}
+.message{
+	color: white;
+}

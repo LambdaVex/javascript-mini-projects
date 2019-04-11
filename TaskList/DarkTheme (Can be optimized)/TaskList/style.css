@@ -1,0 +1,16 @@
+body, #main, .container{
+	background-color: black;
+}
+.collection-item{
+	background-color: black !important;
+	color: white;
+}
+#filter, #task, #task-title, .card-title{
+	color:white;
+}
+.button{
+	background-color: #2497FF !important;
+}
+.fa-remove{
+	color: red !important;
+}

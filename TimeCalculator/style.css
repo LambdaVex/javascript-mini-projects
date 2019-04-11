@@ -11,6 +11,9 @@ h1{
 	border-color: #2497FF;
 	font-size: 13px;
 }
+#result{
+	font-size: 18px;
+}
 .message{
 	color: white;
 }

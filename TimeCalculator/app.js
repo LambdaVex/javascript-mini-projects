@@ -9,7 +9,6 @@ const calc = document.querySelector('#calc'),
       calcBtn = document.querySelector('#calcbtn'),
       message = document.querySelector('.message');
 
-// Listen for guess
 calcBtn.addEventListener('click', function(){
   
   var today = new Date();
@@ -26,6 +25,5 @@ calcBtn.addEventListener('click', function(){
   
   // message.style.color = color;
   message.textContent = "You will be at: "+today.getHours()+":"+today.getMinutes();
-
 });
 
